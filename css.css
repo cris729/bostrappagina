@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+.caja1 {
+    height: 50px;
+    background-color: yellow;
+}
+
+.caja2 {
+    height: 50px;
+    background-color: rgb(60, 0, 255);
+}
+
+.caja3 {
+    height: 300px;
+    background-color: rgb(17, 255, 0);
+}
+
+.caja4 {
+    height: 200px;
+    background-color: rgb(251, 0, 255);
+    border: 2px solid white;
+}
+.caja5 {
+    height: 300px;
+    background-color: rgb(251, 0, 255);
+    border: 2px solid white;
+}
+.caja6 {
+    height: 500px;
+    background-color: rgb(255, 19, 19);
+    border: 2px solid white;
+}
+
+.cajaArticle {
+    height: 1500px;
+    background-color: rgb(173, 14, 165);
+    border: 2px solid white;
+}
+.caja7 {
+    height: 300px;
+    background-color: rgb(255, 19, 19);
+    border: 2px solid white;
+}
+
